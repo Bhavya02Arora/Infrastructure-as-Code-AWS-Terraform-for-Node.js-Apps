@@ -3,3 +3,7 @@ node_modules/
 
 # dotenv environment variable files
 .env
+
+
+# To add credentials/tf_cli_accessKeys.csv to .gitignore
+terraform/credentials/tf_cli_accessKeys.csv
